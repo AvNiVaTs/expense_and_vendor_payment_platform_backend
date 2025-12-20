@@ -1,0 +1,11 @@
+sample.txt
+sample.txt.pub
+ssh_paraphrase.txt
+
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env.*
