@@ -65,7 +65,7 @@ It tells Git to stop tracking specific, often unnecessary or sensitive files, wh
 This file is crucial for managing environment variables, separating sensitive data (API keys, database credentials) and configuration settings from your codebase, which boosts security, allows easy changes across different environments (dev, staging, production) without code edits, and keeps projects portable, making it essential for modern, scalable applications.
 
 #### After following these steps, this is how my file structure looks like: 
-![image](public/Screenshot 2025-12-22 223315.png)
+![image](https://raw.githubusercontent.com/AvNiVaTs/expense_and_vendor_payment_platform_backend/refs/heads/main/public/Screenshot%202025-12-22%20223315.png)
 
 ***Note:*** To learn how to make a good `README.md`, you can visit:
 [https://www.geeksforgeeks.org/git/what-is-readme-md-file/](https://www.geeksforgeeks.org/git/what-is-readme-md-file/)
