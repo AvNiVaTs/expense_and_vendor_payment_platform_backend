@@ -20,7 +20,8 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon -r dotenv/config src/server.js"
+    "dev": "nodemon -r dotenv/config src/server.js",
+    "start": "node src/server.js"
   },
   "dependencies": {
     "@radix-ui/react-select": "^2.2.6",
