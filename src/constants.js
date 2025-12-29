@@ -1,0 +1,1 @@
+export const DB_NAME = "expense_vendor_platform_db";
